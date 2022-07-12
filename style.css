@@ -1,0 +1,20 @@
+li{
+    list-style-type : none;
+}
+
+.to_do_list{
+    text-align: center;
+    margin-top: 10%;
+}
+
+.faire{
+    border: solid 1px black;
+    margin: 2% 35%;
+    background: linear-gradient(rgb(134, 134, 236), rgb(183, 183, 207));
+}
+
+.finie{
+    border: solid 1px black;
+    margin: 2% 35%;
+    background: linear-gradient(rgb(134, 134, 236), rgb(183, 183, 207));
+}
